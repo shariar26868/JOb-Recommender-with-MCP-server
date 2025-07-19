@@ -31,7 +31,7 @@ JOb-Recommender/
 ├── src/
 │   ├── helper.py           # Functions for PDF extraction and Groq API calls
 │   ├── job_api.py         # Apify LinkedIn job scraping logic
-│   └── mcp_server.py      # Modal MCP backend for job processing
+│── mcp_server.py          # Modal MCP backend for job processing
 ├── .env                   # Environment variables (API keys) - NOT tracked by Git
 ├── .gitignore             # Git ignore rules (excludes venv/, .env, etc.)
 ├── app.py                 # Streamlit web app
