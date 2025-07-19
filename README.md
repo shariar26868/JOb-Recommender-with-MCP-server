@@ -26,6 +26,7 @@ An intelligent job-finding assistant that scrapes job listings and recommends th
 - `.env` for key management
 
 ---
+---
 File Structure
 '''
 JOb-Recommender/
@@ -42,6 +43,7 @@ src
 
 
 '''
+---
 
 ## ⚙️ Setup Instructions
 
