@@ -14,11 +14,10 @@ An intelligent job-finding assistant that scrapes job listings and recommends th
 - 🔒 Uses `.env` file for all API keys
 ## 📸 Screenshots
 
-<img width="827" height="821" alt="Screenshot 2025-07-20 033108" src="https://github.com/user-attachments/assets/949e2fae-c2a0-4ec1-a9d3-158370409030" />
-<img width="795" height=img width="811" height="726" alt="Screenshot 2025-07-20 033216" src="https://github.com/user-attachments/assets/d8d9b8b1-f515-42bb-b476-bc65b64dcf60" />
-<img width="781" height="709" alt="Screenshot 2025-07-20 033327" src="https://github.com/user-attachments/assets/3e7a6fe4-cab6-4653-8347-1258cf0e9bad" />
-<img width="862" height="388" alt="Screenshot 2025-07-20 035043" src="https://github.com/user-attachments/assets/b2f3e46a-3427-4e68-85c9-6675501f97a1" />
-
+<img width="600" height="auto" alt="Screenshot 2025-07-20 033108" src="https://github.com/user-attachments/assets/949e2fae-c2a0-4ec1-a9d3-158370409030" />
+<img width="600" height="auto" alt="Screenshot 2025-07-20 033216" src="https://github.com/user-attachments/assets/d8d9b8b1-f515-42bb-b476-bc65b64dcf60" />
+<img width="600" height="auto" alt="Screenshot 2025-07-20 033327" src="https://github.com/user-attachments/assets/3e7a6fe4-cab6-4653-8347-1258cf0e9bad" />
+<img width="600" height="auto" alt="Screenshot 2025-07-20 035043" src="https://github.com/user-attachments/assets/b2f3e46a-3427-4e68-85c9-6675501f97a1" />
 
 ---
 
