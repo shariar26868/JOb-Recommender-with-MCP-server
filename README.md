@@ -26,6 +26,7 @@ An intelligent job-finding assistant that scrapes job listings and recommends th
 - `.env` for key management
 
 ---
+```text
 JOb-Recommender/
 ├── src/
 │   ├── helper.py           # Functions for PDF extraction and Groq API calls
