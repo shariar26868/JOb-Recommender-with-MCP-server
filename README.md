@@ -26,23 +26,16 @@ An intelligent job-finding assistant that scrapes job listings and recommends th
 - `.env` for key management
 
 ---
----
-File Structure
-'''
 JOb-Recommender/
-src
-├── helper.py               
-├── mcp_server.py       
-├── job_api.py        
-├── venv     
-├── app.py   
-├── .env                 
-├── .gitignore          
-├── requirements.txt     
-└── README.md            
-
-
-'''
+├── src/
+│   ├── helper.py           # Functions for PDF extraction and Groq API calls
+│   ├── job_api.py         # Apify LinkedIn job scraping logic
+│   └── mcp_server.py      # Modal MCP backend for job processing
+├── .env                   # Environment variables (API keys) - NOT tracked by Git
+├── .gitignore             # Git ignore rules (excludes venv/, .env, etc.)
+├── app.py                 # Streamlit web app
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
 ---
 
 ## ⚙️ Setup Instructions
